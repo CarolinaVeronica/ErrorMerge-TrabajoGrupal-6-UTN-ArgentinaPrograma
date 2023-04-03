@@ -69,6 +69,9 @@ em{
 
 
 /***El porqué deberían elegirnos***/
+.contenedor-ppal{
+    background: grey;
+}
 
 
 .titulo-centralizado{
@@ -92,3 +95,57 @@ em{
  .video{
   width: 50%;
  }
+
+ /***Contacto ***/
+
+ .titulo-prueba{
+    margin: 20px 0;
+ }
+ .formulario, .contenedor-general{
+    width: 940px;
+    margin: 0 auto;
+ }
+
+ form,.contenedor-ubicacion, .contenedor-redes{
+    margin: 40px 0;
+ }
+
+ .input-form{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+ }
+
+ .enviar{
+    display: block;
+    width: 40%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: yellow;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor:pointer;
+    
+ }
+
+ .enviar:hover{
+    background: darkorange;
+    transform: scale(1.2);
+ }
+
+ .contenedor-general{ 
+    width: 940px;
+    display: flex;
+    justify-content: space-between;
+
+ }
+
+ .contenedor-redes{
+    padding-right: 100px;
+    margin-right: 300px;
+ }
+
