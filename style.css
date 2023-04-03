@@ -50,7 +50,7 @@ body{
 /***quienes somos***/
 
 .contenedor-quienes{
-    background: #c7c8ca;
+    background:rgb(237, 237, 237);
     text-align: center;
     padding: 1rem 1rem;   
 }
@@ -64,13 +64,13 @@ body{
 }
 
 em{
-    color: beige;
+    color: rgb(255, 211, 0);
 }
 
 
 /***El porqué deberían elegirnos***/
 .contenedor-ppal{
-    background: grey;
+    background: rgb(214, 214,214);
 }
 
 
@@ -78,7 +78,6 @@ em{
     text-align: center;
     padding: 10px;
     font-size: 20px;
-    margin-top: 20px;
   }
 
  .contenedor-porque{
@@ -124,7 +123,7 @@ em{
     font-size: 18px;
     font-weight: bold;
     color: white;
-    background: yellow;
+    background:  rgb(255, 251, 40);
     border: none;
     border-radius: 5px;
     transition: 1s all;
@@ -133,7 +132,7 @@ em{
  }
 
  .enviar:hover{
-    background: darkorange;
+    background:rgb(255, 237, 41);
     transform: scale(1.2);
  }
 
