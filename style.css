@@ -5,11 +5,11 @@
 /***Menu de navegación***/
 body{
     background:#f9f9f9;
-    
+   
 }
 .cabecera{
     align-items: center;
-    background: #f9f9f9;
+    background:#f9f9f9;
     display: flex;
     justify-content: space-between;
     padding-left: 2rem;
@@ -28,6 +28,7 @@ body{
     color: #808080;
     margin-right: 1.25rem;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .menu__link:hover{
@@ -38,7 +39,9 @@ body{
     color: #808080;
     margin-right: 1.25rem;
     text-decoration: none;
-    color: #333333;
+    color: rgb(162, 152, 1);
+    text-transform: uppercase;
+    font-weight: bold;
 
 }
 /***Banner***/
