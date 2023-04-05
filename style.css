@@ -148,3 +148,17 @@ em{
     margin-right: 300px;
  }
 
+ .redes-container{
+    padding: 4px;
+    margin: 4px;
+ }
+
+ .redes-container svg{
+    color: orangered;
+ }
+
+ .mapa{
+    width: 100%;
+
+ }
+
