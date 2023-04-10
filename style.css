@@ -162,112 +162,6 @@ ul.lista-items{
     transform: translate(0%, -13%);
  }
 
- /*** Nuestras Actividades ***/
-
- .titulo-actividades{
-    padding: 30px;
-    margin: 0;
- }
-
-
- .NuestrasActividades{
-    display: block;
-    float: right;
- }
-
- .contenedor-actividades{
-    position: relative;
-    display: inline-block;
-    padding: 35px;
-    text-align: center;
- }
-
- .actividades{
-    position: absolute;
-    vertical-align: text-bottom;
-    top: 65%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    text-shadow: 
-    1px 1px 0 #000,
-    -1px -1px 0 #000,  
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
-    -webkit-text-stroke: 0,5px black;
-    letter-spacing: 2px;   
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
- }
-
- .descripcion-actividades{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 40px;
-    width: 235px;
-    background-color: grey;
-    color: white;
-    transform: translate(0%, -13%);
- }
-
-  
-/*** Membresia ***/
-
-.seccion-membresia{
-   display: inline-flex;
-}
-
-.titulo-membresia{
-   padding: 30px;
-   margin: 0;
-}
-
-.contenedor-membresia{
-   position: relative;
-   float: right;
-   padding: 80px 110px 10px;
-   text-align: center;
-}
-
-.membresia{
-   position: absolute;
-   top: 65%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   color: white;
-   text-shadow: 
-   1px 1px 0 #000,
-   -1px -1px 0 #000,  
-   1px -1px 0 #000,
-   -1px 1px 0 #000,
-   1px 1px 0 #000;
-   -webkit-text-stroke: 0,5px black;
-   letter-spacing: 2px;   
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   
-}
-
-.boton-compra{
-   position: absolute;
-   vertical-align: text-bottom;
-   top: 73%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-}
-
-.BasesyCondiciones{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   height: 40px;
-   width: 340px;
-   background-color: grey;
-   color: white;
-   transform: translate(0%, -13%);
-}
-
  /***Contacto ***/
 
 
@@ -292,7 +186,6 @@ h2.titulo-prueba,h3.titulo-prueba {
  .titulo-prueba{
     margin: 20px 0;
  }
- 
  .formulario, .contenedor-general{
   
     width: 940px;
